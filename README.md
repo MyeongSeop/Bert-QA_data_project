@@ -17,5 +17,6 @@
 
 - Train parameter : doc_stride = 128, batch_size = 12, learning_rate = 2e-5, epochs = 4, max_seq_length = 384
 - Test(dev) data Accuracy
+
   EM score : 84.13793103448276
   F1 score : 91.85130359871962
